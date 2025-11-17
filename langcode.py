@@ -1,5 +1,5 @@
 def test():
-    lang = "Python"
+    lang ="Python"
     print(lang)
 test()
 print(lang)
