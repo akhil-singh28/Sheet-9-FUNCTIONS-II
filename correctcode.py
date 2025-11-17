@@ -1,8 +1,8 @@
 def fun1():
-    name = "Suyash"
+    name ="Suyash"
     def fun2():
         nonlocal name
-        name = "Chaudhary"
+        name ="Chaudhary"
     fun2()
     print(name)
 fun1()
