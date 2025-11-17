@@ -1,0 +1,10 @@
+name ="Suyash"
+def test():
+    print(name)
+    lang = "Python"
+    print(lang)
+test()
+print(name)
+# OUTPUT IS--"Suyash
+#             Python
+#             Suyash"
